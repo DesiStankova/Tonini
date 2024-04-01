@@ -1,0 +1,19 @@
+body {
+    background-color: #fef5f5;
+}
+
+.nav-item {
+    font-weight: 400;
+    font-size: large;
+}
+
+.row, header {
+    margin: 0 5%;
+}
+
+.col {
+    padding: 0 5%;
+}
+
+input[type=checkbox]{
+    accent-color: red;}
